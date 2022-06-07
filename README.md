@@ -25,9 +25,9 @@ In order to meet Horiseon's requests the following edits and additions were made
 
 FINAL PRODUCT
 
-![](../../Screen%20Shot%202022-06-07%20at%205.34.12%20PM.png)
-![](../../Screen%20Shot%202022-06-07%20at%205.35.08%20PM.png)
-![](../../Screen%20Shot%202022-06-07%20at%205.35.30%20PM.png)
+![](/assets/images/top-third.png)
+![](/assets/images/middle-third.png)
+![](/assets/images/bottom-third.png)
 
 
 LINK
